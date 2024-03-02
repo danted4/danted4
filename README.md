@@ -2,8 +2,6 @@
 - 👀 I’m interested in Rust, Node, Express, Solid, React.
 - 🌱 I’m currently working on Microservices and Microfrontends.
 
-![](https://leetcard.jacoblin.cool/danted4)
-
 
 <!---
 danted4/danted4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
