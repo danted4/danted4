@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rust, Node, Express, Solid, React.
 - 🌱 I’m currently working on Microservices and Microfrontends.
 
-![](https://leetcard.jacoblin.cool/danted4?ext=heatmap)
+![](https://leetcard.jacoblin.cool/danted4)
 
 
 <!---
