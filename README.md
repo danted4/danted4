@@ -70,18 +70,18 @@
 
 ## ✨ Featured Projects
 
-### 🖥️ [Code-Auto](https://github.com/danted4/Code-Auto) — Autonomous AI agents for developers
+### 🖥️ [Code-Automata](https://github.com/danted4/Code-Automata) — Autonomous AI agents for developers
 
 A **Next.js + Electron** desktop app (macOS, Windows, Linux) that orchestrates AI-driven coding tasks through a **5-phase Kanban workflow** with **isolated git worktrees** per task. Pick a project folder on startup; tasks, worktrees, and agent logs stay scoped to that project.
 
 | Highlights | Stack |
 |------------|-------|
 | Kanban board: `Planning → In Progress → AI Review → Human Review → Done` | Next.js · Electron · React · TypeScript |
-| Per-task worktrees in `.code-auto/worktrees/{taskId}/`, branch `code-auto/{taskId}` | Tailwind · Zustand · Playwright |
+| Per-task worktrees in `.code-automata/worktrees/{taskId}/`, branch `code-auto/{taskId}` | Tailwind · Zustand · Playwright |
 | Pluggable CLI adapters: **Mock**, **Amp SDK**, **Cursor Agent CLI** | Git worktrees · SSE · JSON file storage |
 | Live agent output via Server-Sent Events; open task worktree in Cursor/VS Code for human review | Husky · ESLint · Prettier |
 
-[**→ View repo**](https://github.com/danted4/Code-Auto)
+[**→ View repo**](https://github.com/danted4/Code-Automata)
 
 ---
 
