@@ -8,13 +8,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharma-kanav)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danted4)
 
-*Crafting modern web experiences & AI-enhanced workflows*
+*Crafting modern web experiences, developer tools & AI-enhanced workflows.*
 
 </div>
 
 ---
-
 ## 🛠️ Tech Stack
+
+### 🤖 AI & LLMs
 
 <table>
 <tr>
@@ -22,95 +23,159 @@
 <img src="https://cdn.simpleicons.org/langchain/F24E1E" width="48" height="48" alt="LLM Integrations" />
 <br><b>LLM Integrations</b>
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-<br><b>React</b>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/langgraph" width="48" height="48" alt="LangGraph" />
+<br><b>LangGraph</b>
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-<br><b>Node.js</b>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/ollama/0E4FAB" width="48" height="48" alt="Ollama" />
+<br><b>Ollama</b>
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
-<br><b>Webpack</b>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-<br><b>Docker</b>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
-<br><b>K8s</b>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-<br><b>TypeScript</b>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-<br><b>Next.js</b>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidjs/solidjs-original.svg" width="48" height="48" alt="Solid.js" />
-<br><b>Solid.js</b>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/anthropic/F24E1E" width="48" height="48" alt="Anthropic" />
+<br><b>Anthropic</b>
 </td>
 </tr>
 </table>
 
-**Frontend:** React · Next.js · Solid.js · Angular · Preact · Canvas API  
-**Backend:** Node.js · Express  
+
+### 💻 Languages
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+<br><b>TypeScript</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" />
+<br><b>Go</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/odin/3882D2" width="48" height="48" alt="Odin" />
+<br><b>Odin</b>
+</td>
+</tr>
+</table>
+
+### 🌐 Frontend & Backend
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React" />
+<br><b>React</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js" />
+<br><b>Next.js</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidjs/solidjs-original.svg" width="44" height="44" alt="Solid.js" />
+<br><b>Solid.js</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/preact/preact-original.svg" width="44" height="44" alt="Preact" />
+<br><b>Preact</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" />
+<br><b>Node.js</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44" height="44" alt="Express" />
+<br><b>Express</b>
+</td>
+</tr>
+</table>
+
+### ⚙️ Infrastructure & Tools
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" />
+<br><b>Docker</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="44" height="44" alt="Kubernetes" />
+<br><b>Kubernetes</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="44" height="44" alt="Webpack" />
+<br><b>Webpack</b>
+</td>
+</tr>
+</table>
+
 **Architecture:** Microservices · Micro-frontends · Module Federation  
-**AI & Tools:** LLM integrations · Claude Code · Cursor AI · GitHub Copilot · OpenDevin · Lovable  
+**Developer Tools:** Claude Code · Cursor AI · GitHub Copilot · OpenDevin
+
 
 ---
 
 ## ✨ Featured Projects
 
-### 🖥️ [Code-Automata](https://github.com/danted4/Code-Automata) — Autonomous AI agents for developers
+### 🖥️ [Code-Automata](https://github.com/danted4/Code-Automata)
 
-A **Next.js + Electron** desktop app (macOS, Windows, Linux) that orchestrates AI-driven coding tasks through a **5-phase Kanban workflow** with **isolated git worktrees** per task. Pick a project folder on startup; tasks, worktrees, and agent logs stay scoped to that project.
+**Autonomous AI agents for developers.**
 
-| Highlights | Stack |
-|------------|-------|
-| Kanban board: `Planning → In Progress → AI Review → Human Review → Done` | Next.js · Electron · React · TypeScript |
-| Per-task worktrees in `.code-automata/worktrees/{taskId}/`, branch `code-auto/{taskId}` | Tailwind · Zustand · Playwright |
-| Pluggable CLI adapters: **Mock**, **Amp SDK**, **Cursor Agent CLI** | Git worktrees · SSE · JSON file storage |
-| Live agent output via Server-Sent Events; open task worktree in Cursor/VS Code for human review | Husky · ESLint · Prettier |
+A **Next.js + Electron** desktop application for orchestrating AI-driven coding tasks through a 5-phase Kanban workflow with isolated Git worktrees per task.
 
-[**→ View repo**](https://github.com/danted4/Code-Automata)
+| | |
+|---|---|
+| **Workflow** | `Planning → In Progress → AI Review → Human Review → Done` |
+| **Agents** | Mock · Amp SDK · Cursor Agent CLI |
+| **Isolation** | Dedicated Git worktree per task |
+| **Live Output** | Server-Sent Events |
+| **Desktop** | macOS · Windows · Linux |
+| **Stack** | Next.js · Electron · React · TypeScript · Tailwind · Zustand · Playwright |
+
+[**→ View repository**](https://github.com/danted4/Code-Automata)
 
 ---
 
-### 🎮 Interactive Games *(hand-coded, no AI)*
+### 🎮 Interactive Games
+
+*Hand-coded — no AI.*
 
 | Project | Description | Stack |
-|---------|-------------|-------|
-| **[Brick Breaker](https://kanavs.web.app)** | Classic brick breaker with game physics, collision detection & ball dynamics | JavaScript · Canvas API |
+|---|---|---|
+| **[Brick Breaker](https://kanavs.web.app)** | Classic brick breaker with physics, collision detection & ball dynamics | JavaScript · Canvas API |
 | **[T90](https://kanavs.web.app)** | Tank battle game with bullet tracking, destructible objects & collision systems | JavaScript · Canvas API |
+
+---
 
 ### 🤖 AI-Enhanced Applications
 
 | Project | Description | Stack |
-|---------|-------------|-------|
-| **[Vector MCP](https://kanavs.web.app)** | Semantic code search & indexing for AI coding workflows. MongoDB vector storage, Ollama embeddings, real-time delta updates | Node.js · MongoDB · Ollama · Vector Search |
-| **[PaintShop](https://kanavs.web.app)** | Modern image editor—MS Paint simplicity meets Photoshop power. Layers, filters, drawing tools | Preact · Canvas API · Image Processing |
-| **[Jotty](https://kanavs.web.app)** | Notes app with syntax-highlighted code blocks, themes, auto-save, search & templates | Preact · Vite · PrismJS · Local Storage |
+|---|---|---|
+| **[Vector MCP](https://kanavs.web.app)** | Semantic code search & indexing for AI coding workflows | Node.js · MongoDB · Ollama · Vector Search |
+| **[PaintShop](https://kanavs.web.app)** | Modern image editor combining Paint simplicity with Photoshop-style capabilities | Preact · Canvas API · Image Processing |
+| **[Jotty](https://kanavs.web.app)** | Notes app with code blocks, themes, auto-save, search & templates | Preact · Vite · PrismJS · Local Storage |
 
-*👉 [View full work history & live demos](https://kanavs.web.app/work)*
+<div align="center">
+
+👉 **[View full work history & live demos](https://kanavs.web.app/work)**
+
+</div>
 
 ---
 
 ## 🎯 What I'm Into
 
-- **Full-stack JavaScript** — From React UIs to Node/Express APIs  
-- **Micro-frontends & Module Federation** — Scalable, team-friendly frontend architecture  
-- **Agentic AI coding** — Building with Claude, Cursor, Copilot & local AI (Ollama)  
-- **Games & creative coding** — Canvas API, physics, collision detection  
-- **Developer experience** — Tooling, DX, and making devs (and AI) more productive  
+- **Full-stack JavaScript** — From React interfaces to Node.js APIs
+- **Go & Odin** — Exploring systems programming, tooling & performance-oriented software
+- **Micro-frontends & Module Federation** — Scalable, team-friendly frontend architecture
+- **Agentic AI** — Building with Claude, Cursor, Copilot & local AI through Ollama
+- **Games & creative coding** — Canvas APIs, physics & collision systems
+- **Developer experience** — Building tools that make developers (and AI) more productive
 
 ---
 
@@ -129,7 +194,7 @@ A **Next.js + Electron** desktop app (macOS, Windows, Linux) that orchestrates A
 
 <div align="center">
 
-*"return &lt;&gt;{ signal() }&lt;/&gt;"* — *Building with Solid foundations* ⚡
+*"return <>{ signal() }</>"* — *Building with Solid foundations* ⚡
 
 **Thanks for stopping by!** 🙌
 
