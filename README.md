@@ -81,7 +81,7 @@
 <br><b>Solid.js</b>
 </td>
 <td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/preact/preact-original.svg" width="44" height="44" alt="Preact" />
+<img src="https://cdn.simpleicons.org/preact" width="44" height="44" alt="Preact" />
 <br><b>Preact</b>
 </td>
 <td align="center" width="110">
