@@ -15,7 +15,7 @@
 ---
 ## 🛠️ Tech Stack
 
-### 🤖 LLM Integrations
+### 🤖 LLMs and Workflows
 
 <table>
 <tr>
@@ -29,14 +29,10 @@
 </td>
 
 <td align="center" width="120">
-<img src="https://cdn.simpleicons.org/ollama/0E4FAB" width="48" height="48" alt="Ollama" />
-<br><b>Ollama</b>
+<img src="https://cdn.simpleicons.org/temporal/F24E1E" width="48" height="48" alt="Workflow Orchestration" />
+<br><b>Workflow Orchestration</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/anthropic/F24E1E" width="48" height="48" alt="Anthropic" />
-<br><b>Anthropic</b>
-</td>
 </tr>
 </table>
 
@@ -110,6 +106,18 @@
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="44" height="44" alt="Webpack" />
 <br><b>Webpack</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" />
+<br><b>Claude Code</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/cursor/F24E1E" width="48" height="48" alt="Cursor" />
+<br><b>Cursor</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/amp/1A6304" width="48" height="48" alt="Amp" />
+<br><b>Amp</b>
 </td>
 </tr>
 </table>
