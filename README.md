@@ -15,13 +15,13 @@
 ---
 ## 🛠️ Tech Stack
 
-### 🤖 AI & LLMs
+### 🤖 LLM Integrations
 
 <table>
 <tr>
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/langchain/F24E1E" width="48" height="48" alt="LLM Integrations" />
-<br><b>LLM Integrations</b>
+<br><b>LangChain</b>
 </td>
 <td align="center" width="120">
 <img src="https://cdn.simpleicons.org/langgraph" width="48" height="48" alt="LangGraph" />
