@@ -37,7 +37,7 @@
 </table>
 
 
-### 💻 Languages
+### 💻 Full Stack
 
 <table>
 <tr>
@@ -59,8 +59,6 @@
 </td>
 </tr>
 </table>
-
-### 🌐 Frontend & Backend
 
 <table>
 <tr>
