@@ -81,7 +81,7 @@
 <br><b>Node.js</b>
 </td>
 <td align="center" width="110">
-<a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" width="44" height="44" alt="Express" /><img src="https://raw.githubusercontent.com/danted4/danted4/main/assets/express.svg#gh-dark-mode-only" width="44" height="44" alt="Express" /></a>
+<a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danted4/danted4/main/assets/express.svg?v=2" width="44" height="44" alt="Express" /></a>
 <br><b>Express</b>
 </td>
 </tr>
