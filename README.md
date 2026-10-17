@@ -104,7 +104,7 @@
 <br><b>Webpack</b>
 </td>
 <td align="center" width="120">
-<a href="https://code.claude.com/docs/en/overview"><img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" /></a>
+<a href="https://claude.com/product/claude-code"><img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" /></a>
 <br><b>Claude Code</b>
 </td>
 <td align="center" width="120">
