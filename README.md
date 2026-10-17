@@ -28,7 +28,7 @@
 <br><b>LangGraph</b>
 </td>
 <td align="center" width="120">
-<a href="https://en.wikipedia.org/wiki/AI_agent#Agent_orchestration"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699.svg" width="48" height="48" alt="Workflow Orchestration" /></a>
+<a href="https://www.truefoundry.com/blog/what-is-ai-orchestration"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699.svg" width="48" height="48" alt="Workflow Orchestration" /></a>
 <br><b>Workflow Orchestration</b>
 </td>
 </tr>
