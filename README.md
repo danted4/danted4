@@ -20,7 +20,7 @@
 <table>
 <tr>
 <td align="center" width="96">
-<a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/F24E1E" width="48" height="48" alt="LangChain" /></a>
+<a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/danted4/danted4/main/assets/langchain.svg" width="48" height="48" alt="LangChain" /></a>
 <br><b>LangChain</b>
 </td>
 <td align="center" width="120">
