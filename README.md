@@ -20,16 +20,16 @@
 <table>
 <tr>
 <td align="center" width="96">
-<a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/F24E1E" width="48" height="48" alt="LangChain" /></a>
-<br><a href="https://www.langchain.com/"><b>LangChain</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/F24E1E" width="48" height="48" alt="LangChain" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://www.langchain.com/"><b>LangChain</b></a>
 </td>
 <td align="center" width="120">
-<a href="https://www.langchain.com/langgraph"><img src="https://cdn.simpleicons.org/langgraph" width="48" height="48" alt="LangGraph" /></a>
-<br><a href="https://www.langchain.com/langgraph"><b>LangGraph</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.langchain.com/langgraph"><img src="https://cdn.simpleicons.org/langgraph" width="48" height="48" alt="LangGraph" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://www.langchain.com/langgraph"><b>LangGraph</b></a>
 </td>
 <td align="center" width="120">
-<a href="https://temporal.io/"><img src="https://cdn.simpleicons.org/temporal/F24E1E" width="48" height="48" alt="Workflow Orchestration" /></a>
-<br><a href="https://temporal.io/"><b>Workflow Orchestration</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://temporal.io/"><img src="https://cdn.simpleicons.org/temporal/F24E1E" width="48" height="48" alt="Workflow Orchestration" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://temporal.io/"><b>Workflow Orchestration</b></a>
 </td>
 </tr>
 </table>
@@ -40,20 +40,20 @@
 <table>
 <tr>
 <td align="center" width="120">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /></a>
-<br><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><b>JavaScript</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><b>JavaScript</b></a>
 </td>
 <td align="center" width="120">
-<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a>
-<br><a href="https://www.typescriptlang.org/"><b>TypeScript</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/"><b>TypeScript</b></a>
 </td>
 <td align="center" width="120">
-<a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" /></a>
-<br><a href="https://go.dev/"><b>Go</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://go.dev/"><b>Go</b></a>
 </td>
 <td align="center" width="120">
-<a href="https://odin-lang.org/"><img src="https://cdn.simpleicons.org/odin/3882D2" width="48" height="48" alt="Odin" /></a>
-<br><a href="https://odin-lang.org/"><b>Odin</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://odin-lang.org/"><img src="https://cdn.simpleicons.org/odin/3882D2" width="48" height="48" alt="Odin" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://odin-lang.org/"><b>Odin</b></a>
 </td>
 </tr>
 </table>
@@ -61,28 +61,28 @@
 <table>
 <tr>
 <td align="center" width="110">
-<a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React" /></a>
-<br><a href="https://react.dev/"><b>React</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://react.dev/"><b>React</b></a>
 </td>
 <td align="center" width="110">
-<a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js" /></a>
-<br><a href="https://nextjs.org/"><b>Next.js</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://nextjs.org/"><b>Next.js</b></a>
 </td>
 <td align="center" width="110">
-<a href="https://www.solidjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidjs/solidjs-original.svg" width="44" height="44" alt="Solid.js" /></a>
-<br><a href="https://www.solidjs.com/"><b>Solid.js</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.solidjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidjs/solidjs-original.svg" width="44" height="44" alt="Solid.js" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://www.solidjs.com/"><b>Solid.js</b></a>
 </td>
 <td align="center" width="110">
-<a href="https://preactjs.com/"><img src="https://cdn.simpleicons.org/preact" width="44" height="44" alt="Preact" /></a>
-<br><a href="https://preactjs.com/"><b>Preact</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://preactjs.com/"><img src="https://cdn.simpleicons.org/preact" width="44" height="44" alt="Preact" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://preactjs.com/"><b>Preact</b></a>
 </td>
 <td align="center" width="110">
-<a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" /></a>
-<br><a href="https://nodejs.org/"><b>Node.js</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/"><b>Node.js</b></a>
 </td>
 <td align="center" width="110">
-<a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44" height="44" alt="Express" /></a>
-<br><a href="https://expressjs.com/"><b>Express</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44" height="44" alt="Express" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://expressjs.com/"><b>Express</b></a>
 </td>
 </tr>
 </table>
@@ -92,28 +92,28 @@
 <table>
 <tr>
 <td align="center" width="110">
-<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" /></a>
-<br><a href="https://www.docker.com/"><b>Docker</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://www.docker.com/"><b>Docker</b></a>
 </td>
 <td align="center" width="110">
-<a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="44" height="44" alt="Kubernetes" /></a>
-<br><a href="https://kubernetes.io/"><b>Kubernetes</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="44" height="44" alt="Kubernetes" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://kubernetes.io/"><b>Kubernetes</b></a>
 </td>
 <td align="center" width="110">
-<a href="https://webpack.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="44" height="44" alt="Webpack" /></a>
-<br><a href="https://webpack.js.org/"><b>Webpack</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://webpack.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="44" height="44" alt="Webpack" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://webpack.js.org/"><b>Webpack</b></a>
 </td>
 <td align="center" width="120">
-<a href="https://code.claude.com/docs/en/overview"><img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" /></a>
-<br><a href="https://code.claude.com/docs/en/overview"><b>Claude Code</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://code.claude.com/docs/en/overview"><img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://code.claude.com/docs/en/overview"><b>Claude Code</b></a>
 </td>
 <td align="center" width="120">
-<a href="https://cursor.com/"><img src="https://cdn.simpleicons.org/cursor/F24E1E" width="48" height="48" alt="Cursor" /></a>
-<br><a href="https://cursor.com/"><b>Cursor</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://cursor.com/"><img src="https://cdn.simpleicons.org/cursor/F24E1E" width="48" height="48" alt="Cursor" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://cursor.com/"><b>Cursor</b></a>
 </td>
 <td align="center" width="120">
-<a href="https://ampcode.com/"><img src="https://cdn.simpleicons.org/amp/1A6304" width="48" height="48" alt="Amp" /></a>
-<br><a href="https://ampcode.com/"><b>Amp</b></a>
+<a target="_blank" rel="noopener noreferrer" href="https://ampcode.com/"><img src="https://cdn.simpleicons.org/amp/1A6304" width="48" height="48" alt="Amp" /></a>
+<br><a target="_blank" rel="noopener noreferrer" href="https://ampcode.com/"><b>Amp</b></a>
 </td>
 </tr>
 </table>
