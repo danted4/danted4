@@ -56,7 +56,7 @@
 <br><b>Odin</b>
 </td>
 <td align="center" width="120">
-<a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" /></a>
+<a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/danted4/danted4/main/assets/rust.svg" width="48" height="48" alt="Rust" /></a>
 <br><b>Rust</b>
 </td>
 </tr>
