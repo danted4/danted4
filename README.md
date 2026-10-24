@@ -55,6 +55,10 @@
 <a href="https://odin-lang.org/"><img src="https://cdn.simpleicons.org/odin/3882D2" width="48" height="48" alt="Odin" /></a>
 <br><b>Odin</b>
 </td>
+<td align="center" width="120">
+<a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" /></a>
+<br><b>Rust</b>
+</td>
 </tr>
 </table>
 
@@ -175,7 +179,7 @@ A **Next.js + Electron** desktop application for orchestrating AI-driven coding 
 ## 🎯 What I'm Into
 
 - **Full-stack JavaScript** — From React interfaces to Node.js APIs
-- **Go & Odin** — Exploring systems programming, tooling & performance-oriented software
+- **Go, Odin & Rust** — Exploring systems programming, tooling & performance-oriented software
 - **Micro-frontends & Module Federation** — Scalable, team-friendly frontend architecture
 - **Agentic AI** — Building with Claude, Cursor, Copilot & local AI through Ollama
 - **Games & creative coding** — Canvas APIs, physics & collision systems
