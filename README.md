@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kanav Sharma
 
-### JavaScript Full Stack Developer · Agentic AI Enthusiast · Builder of Things
+### Full Stack Developer · Agentic AI Enthusiast · Builder of Things
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firebase&logoColor=white)](https://kanavs.web.app/home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharma-kanav)
