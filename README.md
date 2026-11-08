@@ -130,6 +130,24 @@
 
 ## ✨ Featured Projects
 
+### ⬇️ [torrenter](https://github.com/danted4/torrenter)
+
+**Magnet, torrent, and parallel HTTP(S) downloader — one Rust engine, five fronts.**
+
+A **Rust** CLI + native GUI (egui, no HTML/CSS), plus Android and iOS sideload apps. Two engines: BitTorrent via librqbit, and 4-part parallel HTTP(S) with byte-range resume. Releases ship CLI, GUI, and APK.
+
+| | |
+|---|---|
+| **Engines** | Magnet / torrent (librqbit) · Direct HTTP(S) with resume |
+| **Fronts** | CLI · Native GUI · Android APK · iOS (Xcode sideload) |
+| **Platforms** | Windows · macOS · Linux · Android · iOS |
+| **Downloads** | `<OS Downloads>/torrenter` until you pick another folder |
+| **Stack** | Rust · Tokio · librqbit · egui / eframe · UniFFI · Kotlin · SwiftUI |
+
+[**→ View repository**](https://github.com/danted4/torrenter)
+
+---
+
 ### 🖥️ [Code-Automata](https://github.com/danted4/Code-Automata)
 
 **Autonomous AI agents for developers.**
