@@ -134,7 +134,7 @@
 
 **Magnet, torrent, and parallel HTTP(S) downloader — one Rust engine, five fronts.**
 
-A **Rust** CLI + native GUI (egui, no HTML/CSS), plus Android and iOS sideload apps. Two engines: BitTorrent via librqbit, and 4-part parallel HTTP(S) with byte-range resume. Releases ship CLI, GUI, and APK.
+A **Rust** CLI + native GUI (egui), plus Android and iOS sideload apps. Two engines: BitTorrent via librqbit, and 4-part parallel HTTP(S) with byte-range resume. Releases ship CLI, GUI, and APK.
 
 | | |
 |---|---|
