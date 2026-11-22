@@ -132,7 +132,7 @@
 
 ### ⬇️ [torrenter](https://github.com/danted4/torrenter)
 
-**Magnet, torrent, and parallel HTTP(S) downloader — one Rust engine, five fronts.**
+**Magnet, torrent, and parallel HTTP(S) downloader: one Rust engine, five fronts.**
 
 A **Rust** CLI + native GUI (egui), plus Android and iOS sideload apps. Two engines: BitTorrent via librqbit, and 4-part parallel HTTP(S) with byte-range resume. Releases ship CLI, GUI, and APK.
 
@@ -169,7 +169,7 @@ A **Next.js + Electron** desktop application for orchestrating AI-driven coding 
 
 ### 🎮 Interactive Games
 
-*Hand-coded — no AI.*
+*Hand-coded, no AI.*
 
 | Project | Description | Stack |
 |---|---|---|
@@ -196,12 +196,12 @@ A **Next.js + Electron** desktop application for orchestrating AI-driven coding 
 
 ## 🎯 What I'm Into
 
-- **Full-stack JavaScript** — From React interfaces to Node.js APIs
-- **Go, Odin & Rust** — Exploring systems programming, tooling & performance-oriented software
-- **Micro-frontends & Module Federation** — Scalable, team-friendly frontend architecture
-- **Agentic AI** — Building with Claude, Cursor, Copilot & local AI through Ollama
-- **Games & creative coding** — Canvas APIs, physics & collision systems
-- **Developer experience** — Building tools that make developers (and AI) more productive
+- **Full-stack JavaScript**: From React interfaces to Node.js APIs
+- **Go, Odin & Rust**: Exploring systems programming, tooling & performance-oriented software
+- **Micro-frontends & Module Federation**: Scalable, team-friendly frontend architecture
+- **Agentic AI**: Building with Claude, Cursor, Copilot & local AI through Ollama
+- **Games & creative coding**: Canvas APIs, physics & collision systems
+- **Developer experience**: Building tools that make developers (and AI) more productive
 
 ---
 
@@ -220,7 +220,7 @@ A **Next.js + Electron** desktop application for orchestrating AI-driven coding 
 
 <div align="center">
 
-*"return <>{ signal() }</>"* — *Building with Solid foundations* ⚡
+*"return <>{ signal() }</>"* · *Building with Solid foundations* ⚡
 
 **Thanks for stopping by!** 🙌
 
