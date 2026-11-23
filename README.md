@@ -128,10 +128,17 @@
 
 ---
 
+## 🌱 Open Source & Playground
+
+- 🤝 **Open source:** co-author on [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ([#2688](https://github.com/vercel-labs/agent-browser/pull/2688))
+- 🎮 **Games, hand-coded:** [T90 & Brick Breaker](https://danted4.github.io/jsGaming/)
+- 🦀 **Rust apps:** [torrenter](https://github.com/danted4/torrenter): magnet, torrent & parallel HTTP(S) downloader with CLI, desktop GUI and Android
+
+---
+
 ## 🎯 What I'm Into
 
-- **Full-stack JavaScript**: From React interfaces to Node.js APIs
-- **Go, Odin & Rust**: Exploring systems programming, tooling & performance-oriented software
+- **Full-stack to systems**: From React interfaces and Node.js APIs to Go, Odin & Rust
 - **Micro-frontends & Module Federation**: Scalable, team-friendly frontend architecture
 - **Agentic AI**: Building with Claude, Cursor, Copilot & local AI through Ollama
 - **Games & creative coding**: Canvas APIs, physics & collision systems
