@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kanav Sharma
 
-### Full Stack Developer · Agentic AI Enthusiast · Builder of Things
+### Sr. Technical Lead · Full Stack Dev · Agentic AI Architect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firebase&logoColor=white)](https://kanavs.web.app/home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharma-kanav)
