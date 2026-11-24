@@ -122,10 +122,6 @@
 </tr>
 </table>
 
-**Architecture:** Microservices · Micro-frontends · Module Federation  
-**Developer Tools:** Claude Code · Cursor AI · GitHub Copilot · OpenDevin
-
-
 ---
 
 ## 🌱 Open Source & Playground
